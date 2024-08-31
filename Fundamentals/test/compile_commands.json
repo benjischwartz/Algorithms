@@ -1,0 +1,30 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/local/opt/googletest/include",
+      "-o",
+      "test_ThreeSum",
+      "test_ThreeSum.cpp"
+    ],
+    "directory": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/test",
+    "file": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/test/test_ThreeSum.cpp",
+    "output": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/test/test_ThreeSum"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/local/opt/googletest/include",
+      "-o",
+      "test_ThreeSum",
+      "../code/3Sum.cpp"
+    ],
+    "directory": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/test",
+    "file": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/code/3Sum.cpp",
+    "output": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/test/test_ThreeSum"
+  }
+]
