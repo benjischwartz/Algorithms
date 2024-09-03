@@ -1,0 +1,44 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-I/usr/local/opt/googletest/include",
+      "-c",
+      "-o",
+      "test_UnionFind.o",
+      "test_UnionFind.cpp"
+    ],
+    "directory": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/UnionFind/test",
+    "file": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/UnionFind/test/test_UnionFind.cpp",
+    "output": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/UnionFind/test/test_UnionFind.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/local/opt/googletest/include",
+      "-o",
+      "test_UnionFind",
+      "test_UnionFind.cpp"
+    ],
+    "directory": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/UnionFind/test",
+    "file": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/UnionFind/test/test_UnionFind.cpp",
+    "output": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/UnionFind/test/test_UnionFind"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/local/opt/googletest/include",
+      "-o",
+      "test_UnionFind",
+      "../code/UnionFind.cpp"
+    ],
+    "directory": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/UnionFind/test",
+    "file": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/UnionFind/code/UnionFind.cpp",
+    "output": "/Users/benjaminschwartz/Projects/Algorithms/Fundamentals/UnionFind/test/test_UnionFind"
+  }
+]
